@@ -11,11 +11,15 @@ The Python Port Scanner is a user-friendly script for quickly identifying open p
 - python3 portscanner.py
 
 Here's an example of how to use the Python Port Scanner:
+
 [*] Enter Targets to Scan (Split them by ,): target1, target2
+
 [*] Enter How Many Ports You Want to Scan: 100
+
 [*] Scanning Multiple Targets
 
 Starting Scan For target1
+
 [+] Port Opened 80
 [-] Port Closed 443
 
