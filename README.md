@@ -20,11 +20,15 @@ Here's an example of how to use the Python Port Scanner:
 
 Starting Scan For target1
 
+
 [+] Port Opened 80
+
 [-] Port Closed 443
 
 Starting Scan For target2
+
 [-] Port Closed 80
+
 [+] Port Opened 22
 
 ## License
